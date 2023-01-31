@@ -84,4 +84,4 @@ You are free to add/change any libraries which you might need to solve this exer
 ```mvn spring-boot:run```
 
 ### Commiting
-You will provide your solution by creating a feature branch using your name (i.e. feature/{your name}]) and pushing it to this repository.
+You will provide your solution by forking this branch and sending us the link to the respository.
