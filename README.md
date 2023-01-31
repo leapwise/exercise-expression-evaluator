@@ -74,10 +74,10 @@ When this API is being called requested logical expression should be evaluated u
 ## Additional Information
 You should use following frameworks for your work.
 
-###Spring JPA
+### Spring JPA
 H2 database running in memory (data will not be persistent across application restarts). 
 
-###3rd party libraries
+### 3rd party libraries
 You are free to add/change any libraries which you might need to solve this exercise, except using any 3rd party expression evaluation library (i.e. SpEL, JSONPath or any other), the only requirement is that we do not have to setup / install any external software to run this application.
 
 Running the exercise with maven
